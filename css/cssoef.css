@@ -1,0 +1,16 @@
+.lesDiv {
+      float: left;
+      padding: 10px;
+      border-radius: 5px;
+      border: solid black 1px;
+      margin-right: 10px;
+      background-color: blanchedalmond;
+}
+
+body {
+      padding: 10px;
+}
+
+select {
+      margin-bottom: 10px;
+}
